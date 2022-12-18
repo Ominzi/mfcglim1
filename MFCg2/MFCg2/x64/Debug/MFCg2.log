@@ -1,0 +1,5 @@
+﻿  MFCg2.cpp
+C:\glim\Project\MFCglim1\MFCg2\MFCg2\MFCg2Dlg.h(41,7): error C2182: 'moveRect': 'void' 형식을 잘못 사용했습니다.
+  MFCg2Dlg.cpp
+C:\glim\Project\MFCglim1\MFCg2\MFCg2\MFCg2Dlg.h(41,7): error C2182: 'moveRect': 'void' 형식을 잘못 사용했습니다.
+  코드를 생성하고 있습니다...
